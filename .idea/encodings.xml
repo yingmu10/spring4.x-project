@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring4.x-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-aware" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-conditional" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-di" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-el" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-event" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-javaConfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-prepost" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-profile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-schedule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-scope" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-taskExecutor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring4.x-test" charset="UTF-8" />
+  </component>
+</project>

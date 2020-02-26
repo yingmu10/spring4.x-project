@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring4.x-annotation" />
+        <module name="spring4.x-aop" />
+        <module name="spring4.x-aware" />
+        <module name="spring4.x-conditional" />
+        <module name="spring4.x-di" />
+        <module name="spring4.x-el" />
+        <module name="spring4.x-event" />
+        <module name="spring4.x-javaConfig" />
+        <module name="spring4.x-prepost" />
+        <module name="spring4.x-profile" />
+        <module name="spring4.x-schedule" />
+        <module name="spring4.x-scope" />
+        <module name="spring4.x-taskExecutor" />
+        <module name="spring4.x-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring4.x-annotation" target="1.7" />
+      <module name="spring4.x-aop" target="1.7" />
+      <module name="spring4.x-aware" target="1.7" />
+      <module name="spring4.x-conditional" target="1.7" />
+      <module name="spring4.x-di" target="1.7" />
+      <module name="spring4.x-el" target="1.7" />
+      <module name="spring4.x-event" target="1.7" />
+      <module name="spring4.x-javaConfig" target="1.7" />
+      <module name="spring4.x-prepost" target="1.7" />
+      <module name="spring4.x-profile" target="1.7" />
+      <module name="spring4.x-project" target="1.7" />
+      <module name="spring4.x-schedule" target="1.7" />
+      <module name="spring4.x-scope" target="1.7" />
+      <module name="spring4.x-taskExecutor" target="1.7" />
+      <module name="spring4.x-test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-annotation/spring4.x-annotation.iml" filepath="$PROJECT_DIR$/spring4.x-annotation/spring4.x-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-aop/spring4.x-aop.iml" filepath="$PROJECT_DIR$/spring4.x-aop/spring4.x-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-aware/spring4.x-aware.iml" filepath="$PROJECT_DIR$/spring4.x-aware/spring4.x-aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-conditional/spring4.x-conditional.iml" filepath="$PROJECT_DIR$/spring4.x-conditional/spring4.x-conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-di/spring4.x-di.iml" filepath="$PROJECT_DIR$/spring4.x-di/spring4.x-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-el/spring4.x-el.iml" filepath="$PROJECT_DIR$/spring4.x-el/spring4.x-el.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-event/spring4.x-event.iml" filepath="$PROJECT_DIR$/spring4.x-event/spring4.x-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-javaConfig/spring4.x-javaConfig.iml" filepath="$PROJECT_DIR$/spring4.x-javaConfig/spring4.x-javaConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-prepost/spring4.x-prepost.iml" filepath="$PROJECT_DIR$/spring4.x-prepost/spring4.x-prepost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-profile/spring4.x-profile.iml" filepath="$PROJECT_DIR$/spring4.x-profile/spring4.x-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-project.iml" filepath="$PROJECT_DIR$/spring4.x-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-schedule/spring4.x-schedule.iml" filepath="$PROJECT_DIR$/spring4.x-schedule/spring4.x-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-scope/spring4.x-scope.iml" filepath="$PROJECT_DIR$/spring4.x-scope/spring4.x-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-taskExecutor/spring4.x-taskExecutor.iml" filepath="$PROJECT_DIR$/spring4.x-taskExecutor/spring4.x-taskExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring4.x-test/spring4.x-test.iml" filepath="$PROJECT_DIR$/spring4.x-test/spring4.x-test.iml" />
+    </modules>
+  </component>
+</project>
